@@ -1,0 +1,5 @@
+financial analysis 
+Total profit is: $ 22564198
+Total Months is:86
+Greatest increase in profit: $1141840Mar-13
+Greatest decrease in profit: $-1194133Dec-10
